@@ -1,0 +1,9 @@
+Nancy|Davolio|Sales Representative
+Andrew|Fuller|Vice President, Sales
+Janet|Leverling|Sales Representative
+Margaret|Peacock|Sales Representative
+Steven|Buchanan|Sales Manager
+Michael|Suyama|Sales Representative
+Robert|King|Sales Representative
+Laura|Callahan|Inside Sales Coordinator
+Anne|Dodsworth|Sales Representative
